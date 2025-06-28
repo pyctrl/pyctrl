@@ -9,25 +9,28 @@ I'm Python
 enthusiast & enjoyer :upside_down_face:
 
 - 🌍 Based in Armenia, Yerevan :armenia:
-- 📫 You can reach me
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/dimaburmistrov/)
   <a href="https://www.linkedin.com/in/dimaburmistrov/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="14" height="14" alt="LinkedIn" />
   </a>
-  [on LinkedIn](https://www.linkedin.com/in/dimaburmistrov/)
+
 
 ### Projects
 
-* <img src="/logo/izulu/izulu_logo_512.png" alt="izulu logo" width="29"/>   [`izulu`](https://github.com/pyctrl/izulu) —
-  library to rethink :zap: exception management
+1. [`izulu`](https://github.com/pyctrl/izulu) <img src="/logo/izulu/izulu_logo_512.png" alt="izulu logo" width="32"/>
+
+   > Rethinking exception management :zap:
+   
+   Library to cut `try` blocks, simplify code and make exceptions really meaningful.
 
 
 ### Professional
 
 :green_square: Head of the Backend Development
 
-:green_square: Leading Engineer
-
 :green_square: Staff+ Engineer
+
+:green_square: Leading Engineer
 
 :yellow_square: Senior SRE
 
@@ -40,8 +43,6 @@ enthusiast & enjoyer :upside_down_face:
 
 
 <!--
-**pyctrl/pyctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -53,5 +54,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
