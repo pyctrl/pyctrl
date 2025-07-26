@@ -1,12 +1,12 @@
 ## <img src="/logo/pyctrl/sp_logo_512.png" alt="My logo" width="48"/>   Dima Burmistrov
 
-Hi 👋
+<img src="https://2.gravatar.com/avatar/11c7e11043d9f4a772d3662bdf90937d6dec73ddbd4138394fc7bbfdc995b230?size=256" alt="My photo" width="256"/>
 
 I'm Python
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="14" height="14" alt="Python" />
 </a>
-enthusiast & enjoyer :upside_down_face:
+&nbsp; enthusiast & enjoyer :upside_down_face:
 
 - 🌍 Based in Armenia, Yerevan :armenia:
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/dimaburmistrov/)
@@ -37,9 +37,9 @@ enthusiast & enjoyer :upside_down_face:
 
 ### Talks
 
-* [“How to get the most out of Code Review”](https://highload.ru/moscow/2019/abstracts/6212) :ru:, PiterPy (online) 2023
-* [“Database: migration as microservice”](https://highload.ru/moscow/2019/abstracts/6212) :ru:, Avito Backend meetup, 2023
-* [“Network management experience in the cloud”](https://highload.ru/moscow/2019/abstracts/6212) :ru:, HighLoad++ 2019
+* PiterPy (online), 2023</br>[“How to get the most out of Code Review”](https://highload.ru/moscow/2019/abstracts/6212) :ru:
+* Avito Backend meetup, 2023</br>[“Database: migration as microservice”](https://highload.ru/moscow/2019/abstracts/6212) :ru:
+* HighLoad++ 2019</br>[“Network management experience in the cloud”](https://highload.ru/moscow/2019/abstracts/6212) :ru:
 
 
 <!--
