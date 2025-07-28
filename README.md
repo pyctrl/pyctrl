@@ -35,8 +35,8 @@ I'm Python
 
 ### Talks
 
-* PiterPy (online), 2023</br>[“How to get the most out of Code Review”](https://highload.ru/moscow/2019/abstracts/6212) :ru:
-* Avito Backend meetup, 2023</br>[“Database: migration as microservice”](https://highload.ru/moscow/2019/abstracts/6212) :ru:
+* PiterPy (online), 2023</br>[“How to get the most out of Code Review”](https://piterpy.com/archive/2023/talks/e417cb0614b548afa012624a4a0a6514/) :ru:
+* Avito Backend meetup, 2023</br>[“Database: migration as microservice”](https://www.youtube.com/watch?v=cdCWZVf4IMo) :ru:
 * HighLoad++ 2019</br>[“Network management experience in the cloud”](https://highload.ru/moscow/2019/abstracts/6212) :ru:
 
 
