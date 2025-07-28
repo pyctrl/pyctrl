@@ -1,6 +1,4 @@
-## <img src="/logo/pyctrl/sp_logo_512.png" alt="My logo" width="48"/>   Dima Burmistrov
-
-<img src="https://2.gravatar.com/avatar/11c7e11043d9f4a772d3662bdf90937d6dec73ddbd4138394fc7bbfdc995b230?size=256" alt="My photo" width="256"/>
+## Dima Burmistrov &nbsp; <img src="/logo/pyctrl/sp_logo_512.png" alt="My logo" width="48"/>
 
 I'm Python
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
